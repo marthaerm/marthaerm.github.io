@@ -2,7 +2,7 @@ import React from 'react';
 // import './index.css';
 function About (){
     return (
-        <div className="mt-20">
+        <div  id="about" className="mt-20">
             <h1 className="text-2xl mb-4 text-purple-500">
                 <span className="font-bold">> About me</span>
             </h1>

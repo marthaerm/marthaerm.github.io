@@ -15,27 +15,27 @@ function Navbar (){
             </div>
             <div className="menu">
                 <div className="text-sm lg:flex-grow">
-                    <a className="menu-item">About me</a>
-                    <a className="menu-item">Examples</a>
+                    <a href="#about" className="menu-item">About me</a>
+                    <a href="#projects" className="menu-item">Learning Projects</a>
                 </div>
                 <div>
-                    <a className="menu-item">
-                        <img class=" h-6 w-5 mr-2" src={Github} />
+                    <a href="https://github.com/marthaerm" target="blank" className="menu-item">
+                        <img className=" h-6 w-5 mr-2" src={Github} alt="github logo"/>
                     </a>
-                    <a className="menu-item">
-                        <img class=" h-6 w-5 mr-2" src={Linkedin} />
+                    <a href="https://www.linkedin.com/in/marthaerm/" target="blank" className="menu-item">
+                        <img className=" h-6 w-5 mr-2" src={Linkedin} alt="LinkedIn logo"/>
                     </a>
-                    <a className="menu-item">
-                        <img class=" h-6 w-5 mr-2" src={Twitter} />
+                    <a href="https://twitter.com/marthaerm_" target="blank" className="menu-item">
+                        <img className=" h-6 w-5 mr-2" src={Twitter} alt="Twitter logo"/>
                     </a>
-                    <a className="menu-item">
-                        <img class=" h-6 w-5 mr-2" src={Instagram} />
+                    <a href="https://www.instagram.com/marthaerm/" target="blank" className="menu-item">
+                        <img className=" h-6 w-5 mr-2" src={Instagram} alt="Instagram logo"/>
                     </a>
-                    <a className="menu-item">
-                        <img class=" h-6 w-5 mr-2" src={Telegram} />
+                    <a href="https://t.me/marthaerm" target="blank" className="menu-item">
+                        <img className=" h-6 w-5 mr-2" src={Telegram} alt="Telegram logo"/>
                     </a>
-                    <a className="menu-item">
-                        <img class=" h-6 w-5 mr-2" src={Mail} />
+                    <a href="mailto:rdz.marthaelena@gmail.com" target="blank" className="menu-item">
+                        <img className=" h-6 w-5 mr-2" src={Mail} alt="Mail logo"/>
                     </a>
                 </div>
             </div>

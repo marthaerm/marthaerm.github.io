@@ -2,7 +2,7 @@ import React from 'react';
 // import './index.css';
 function Examples (){
     return (
-        <div className="mt-20">
+        <div id="projects" className="mt-20">
             <h3 className="text-2xl mb-4 text-purple-500">
                 <span className="font-bold">> Learning Projects</span>
             </h3>
