@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9640223.chunk.css",
+    "main.js": "/static/js/main.978033a7.chunk.js",
+    "main.js.map": "/static/js/main.978033a7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f374563c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f374563c.js.map",
+    "static/js/2.e071bb75.chunk.js": "/static/js/2.e071bb75.chunk.js",
+    "static/js/2.e071bb75.chunk.js.map": "/static/js/2.e071bb75.chunk.js.map",
+    "static/js/3.af163da4.chunk.js": "/static/js/3.af163da4.chunk.js",
+    "static/js/3.af163da4.chunk.js.map": "/static/js/3.af163da4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f9640223.chunk.css.map": "/static/css/main.f9640223.chunk.css.map",
+    "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/static/js/2.e071bb75.chunk.js.LICENSE.txt",
+    "static/media/email.8a1519ad.svg": "/static/media/email.8a1519ad.svg",
+    "static/media/github.5b3eb733.svg": "/static/media/github.5b3eb733.svg",
+    "static/media/instagram.80f8497b.svg": "/static/media/instagram.80f8497b.svg",
+    "static/media/linkedin.381cb0e1.svg": "/static/media/linkedin.381cb0e1.svg",
+    "static/media/telegram.0fa07560.svg": "/static/media/telegram.0fa07560.svg",
+    "static/media/twitter.b869c340.svg": "/static/media/twitter.b869c340.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f374563c.js",
+    "static/js/2.e071bb75.chunk.js",
+    "static/css/main.f9640223.chunk.css",
+    "static/js/main.978033a7.chunk.js"
+  ]
+}
