@@ -1,0 +1,7 @@
+.title{
+    @apply text-center text-6xl text-purple-700;
+}
+
+.subtitle{
+    @apply text-center text-4xl text-gray-500;
+}
