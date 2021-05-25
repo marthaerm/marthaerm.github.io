@@ -17,6 +17,7 @@ function Talks (){
                     </h3>
                     <div className="grid grid-cols-2 grid-rows-5">
                         <iframe
+                            title="Internships: Un camino para ser SoftwareEngineer"
                             src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEeU4V-Q7s&#x2F;view?embed"
                             className="col-span-2 row-span-5 w-full h-80"
                         />
