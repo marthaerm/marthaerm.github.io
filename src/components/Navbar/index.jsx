@@ -6,6 +6,8 @@ import Telegram from "../../assets/img/telegram.svg";
 import Github from "../../assets/img/github.svg";
 import Mail from "../../assets/img/email.svg";
 import Linkedin from "../../assets/img/linkedin.svg";
+import Medium from "../../assets/img/medium.svg";
+
 function Navbar (){
     return (
         <nav className="navbar">
@@ -37,6 +39,9 @@ function Navbar (){
                     </a>
                     <a href="mailto:rdz.marthaelena@gmail.com" target="blank" className="menu-item">
                         <img className=" h-6 w-5 mr-2" src={Mail} alt="Mail logo"/>
+                    </a>
+                    <a href="https://marthaerm.medium.com/" target="blank" className="menu-item">
+                        <img className=" h-6 w-5 mr-2" src={Medium} alt="Medium logo"/>
                     </a>
                 </div>
             </div>
