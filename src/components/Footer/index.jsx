@@ -13,6 +13,7 @@ function Footer (){
                 <div className="text-sm lg:flex-grow">
                     <a href="#about" className="menu-item">About me</a>
                     <a href="#projects" className="menu-item">Learning Projects</a>
+                    <a href="#talks" className="menu-item">Talks</a>
                 </div>
                 <div>
                     <a href="https://github.com/marthaerm" target="blank" className="menu-item">
