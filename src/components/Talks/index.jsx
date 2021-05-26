@@ -4,10 +4,10 @@ function Talks (){
     return (
         <div id="talks" className="mt-20">
             <h3 className="text-2xl mb-4 text-purple-500">
-                <span className="font-bold">> Talks</span>
+                <span className="font-bold">{'>'} Talks</span>
             </h3>
             <div className="font-courier text-gray-800">
-                <p>These are some talks I've recently participated.</p>
+                <p>These are some talks I've recently participated in.</p>
             </div>
             
             <div className="flex justify-between gap-10">

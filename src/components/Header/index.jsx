@@ -7,7 +7,7 @@ function Header (){
                 <span className="">martha</span>
                 <span className="font-bold">erm</span>
             </h1>
-            <h2 className="subtitle font-courier">Frontend developer</h2>
+            <h2 className="subtitle font-courier">Software Engineer</h2>
         </div>
     );
 }
