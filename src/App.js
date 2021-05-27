@@ -6,8 +6,8 @@ import Examples from './components/Examples'
 import Footer from "./components/Footer"
 import Talks from './components/Talks'
 import ReactGA from 'react-ga'
-ReactGA.initialize('G-4FED73SYHY')
-ReactGA.pageview("/")
+ReactGA.initialize('UA-198016970-2')
+ReactGA.pageview(window.location.pathname)
 
 function App() {
   return (
