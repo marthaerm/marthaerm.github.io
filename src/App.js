@@ -1,10 +1,13 @@
-import './App.css';
-import Navbar from './components/Navbar';
-import Header from './components/Header';
-import About from './components/About';
-import Examples from './components/Examples';
-import Footer from "./components/Footer";
-import Talks from './components/Talks';
+import './App.css'
+import Navbar from './components/Navbar'
+import Header from './components/Header'
+import About from './components/About'
+import Examples from './components/Examples'
+import Footer from "./components/Footer"
+import Talks from './components/Talks'
+import ReactGA from 'react-ga'
+ReactGA.initialize('G-4FED73SYHY')
+ReactGA.pageview("/")
 
 function App() {
   return (
